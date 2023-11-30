@@ -1,0 +1,20 @@
+[
+{
+  "directory": "D:/CProject/multiChat_11/build",
+  "command": "D:\\Gcc_PLUGIN\\mingw64\\bin\\g++.exe  @CMakeFiles/multiChat_11.dir/includes_CXX.rsp  -Wall -g -o CMakeFiles\\multiChat_11.dir\\src\\MultiClientChat.cpp.obj -c D:\\CProject\\multiChat_11\\src\\MultiClientChat.cpp",
+  "file": "D:/CProject/multiChat_11/src/MultiClientChat.cpp",
+  "output": "CMakeFiles/multiChat_11.dir/src/MultiClientChat.cpp.obj"
+},
+{
+  "directory": "D:/CProject/multiChat_11/build",
+  "command": "D:\\Gcc_PLUGIN\\mingw64\\bin\\g++.exe  @CMakeFiles/multiChat_11.dir/includes_CXX.rsp  -Wall -g -o CMakeFiles\\multiChat_11.dir\\src\\TcpListener.cpp.obj -c D:\\CProject\\multiChat_11\\src\\TcpListener.cpp",
+  "file": "D:/CProject/multiChat_11/src/TcpListener.cpp",
+  "output": "CMakeFiles/multiChat_11.dir/src/TcpListener.cpp.obj"
+},
+{
+  "directory": "D:/CProject/multiChat_11/build",
+  "command": "D:\\Gcc_PLUGIN\\mingw64\\bin\\g++.exe  @CMakeFiles/multiChat_11.dir/includes_CXX.rsp  -Wall -g -o CMakeFiles\\multiChat_11.dir\\src\\main.cpp.obj -c D:\\CProject\\multiChat_11\\src\\main.cpp",
+  "file": "D:/CProject/multiChat_11/src/main.cpp",
+  "output": "CMakeFiles/multiChat_11.dir/src/main.cpp.obj"
+}
+]
